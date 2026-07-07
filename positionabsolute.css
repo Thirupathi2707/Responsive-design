@@ -1,0 +1,97 @@
+.app-container {
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.outer-layer {
+    width: 40px;
+    height: 40px;
+    padding: 135px;
+    border: 1px solid black;
+    border-radius: 176px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+  background: linear-gradient(    
+    45deg,
+    #FCAF45 0%,
+    #F56040 25%,
+    #E1306C 50%,
+    #C13584 75%,
+    #833AB4 100%
+  );
+}
+.inner-layer {
+    width: 70px;
+    padding: 56px;
+    border-radius: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    border: 10px solid white;
+}
+
+.innermost-layer {
+    width: 5px;
+    height: 5px;
+    padding: 20px;
+    border-radius: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    border: 10px solid white;
+}
+
+h3{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    position: relative;
+    bottom: 90px;
+    right: -6px;
+}
+.center{
+    width: 5px;
+    height: 5px;
+    padding: 10px;
+    border-radius: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+    position: relative;
+    bottom: 282px;
+    right: -526px;
+    background-color: white;
+}
+
+
+/*.box1 {
+    background-color: red;
+    width: 40px;
+    padding: 100px;
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.box2 {
+    background-color: green;
+    width: 40px;
+    padding: 100px;
+    position: absolute;
+}
+
+.box3 {
+    background-color: blue;
+    width: 40px;
+    padding: 100px;
+    position: relative;
+}*/
