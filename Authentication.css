@@ -1,0 +1,133 @@
+body {
+    background-color: rgb(61, 61, 171);
+}
+
+h1 {
+    position: relative;
+    left: 25%;
+    color: white;
+}
+
+h3 {
+    position: relative;
+    top: -17px;
+    left: 28%;
+    color: rgba(255, 255, 255, 0.797);
+}
+
+.app-container {
+    border: 1px solid rgba(255, 255, 255, 0.797);
+    width: 406px;
+    height: 550px;
+    position: relative;
+    left: 35%;
+    border-radius: 10px;
+    background-color: rgb(4, 88, 162);
+    margin: 75px;
+}
+
+#Email-label {
+    position: relative;
+    bottom: 17px;
+    left: 20px;
+    color: rgb(255 255 255 / 88%);
+}
+
+#Email {
+    position: relative;
+    bottom: -14px;
+    left: -23px;
+    width: 80%;
+    height: 29px;
+    border-radius: 5px;
+    background-color: rgb(195, 195, 241);
+    color: white;
+}
+
+#Password-label {
+    position: relative;
+    bottom: -29px;
+    left: 18px;
+    color: rgb(255 255 255 / 88%);
+}
+
+#Password {
+    position: relative;
+    bottom: -56px;
+    left: -46px;
+    width: 80%;
+    height: 29px;
+    border-radius: 5px;
+    background-color: rgb(195, 195, 241);
+
+}
+
+#Remember-label {
+    position: relative;
+    bottom: -60px;
+    left: 35px;
+    color: rgb(255 255 255 / 88%);
+}
+
+#Remember {
+    position: relative;
+    bottom: -62px;
+    left: -112px;
+    width: 17%;
+    height: 15px;
+}
+
+#Forgot-label {
+    position: relative;
+    bottom: -60px;
+    left: 57px;
+    color: rgb(255 255 255 / 88%);
+}
+
+#SignIn {
+    position: relative;
+    bottom: -93px;
+    left: 15px;
+    width: 83%;
+    height: 34px;
+    background-color: rgb(40, 40, 182);
+    color: white;
+    border-radius: 5px;
+}
+
+h4 {
+    position: relative;
+    bottom: -90px;
+    left: 31%;
+    color: rgba(255, 255, 255, 0.797);
+}
+
+#Google-button {
+    position: relative;
+    bottom: -90px;
+    left: 15px;
+    width: 40%;
+    height: 34px;
+    background-color: rgb(79, 79, 196);
+    color: white;
+    border-radius: 5px;
+}
+
+#GitHub-button {
+    position: relative;
+    bottom: -90px;
+    left: 29px;
+    width: 40%;
+    height: 34px;
+    background-color: rgb(79, 79, 196);
+    color: white;
+    border-radius: 5px;
+}
+
+h5 {
+
+    position: relative;
+    bottom: -90px;
+    left: 30%;
+    color: rgba(255, 255, 255, 0.797);
+}
