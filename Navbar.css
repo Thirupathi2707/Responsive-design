@@ -1,0 +1,52 @@
+.body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    display: inline-block;
+}
+
+#Search {
+    position: relative;
+    top: -47px;
+    right: -203px;
+    margin: 10px;
+}
+
+#Home {
+    position: relative;
+    top: -47px;
+    right: -203px;
+    margin: 10px;
+
+}
+
+#Shows {
+    position: relative;
+    top: -47px;
+    right: -203px;
+    margin: 10px;
+}
+
+#Movies {
+    position: relative;
+    top: -47px;
+    right: -203px;
+    margin: 10px;
+}
+
+#Games {
+    position: relative;
+    top: -47px;
+    right: -203px;
+    margin: 10px;
+
+}
+
+#MyNetflix {
+    position: relative;
+    top: -47px;
+    right: -203px;
+    margin: 10px;
+}
